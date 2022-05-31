@@ -1,5 +1,7 @@
 ---
 description: Bringing that same thing?
+cover: >-
+  https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxuZW9ufGVufDB8fHx8MTY1NDAyNTE1Mg&ixlib=rb-1.2.1&q=80
 coverY: 0
 ---
 
